@@ -34,7 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekusatech&langs_count=10&theme=radical&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fekusatech&theme=dark" alt="fekusatech" /></p>
-	<p><img align="center" src="https://github.com/fekusatech/fekusatech/blob/main/snake-fekusatech.svg" alt="fekusatech" /></p>
 	  
 	  <!-- source snake IMG = https://platane.github.io/snk -->
   
