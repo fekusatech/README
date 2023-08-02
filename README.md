@@ -25,20 +25,20 @@
   
   <audio loop="true" autoplay="true">
 	<source src="https://f.top4top.io/m_1874i0i0m0.mp3" type="audio/mpeg">
-  </audio
+  </audio>
 </p>
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
 
-<h1><strong>You can visit </strong></h1> <h2><a href="https://myportofolio.fekusatech.repl.co/">My Portfolio</a></h2> <h2><a href="https://mykingbee.blogspot.com/">My Website</a></h2><h2><a href="https://fekusatech.github.io/">My Github Io </a></h2><h2><a href="https://ndraeee25.000webhostapp.com/">My Hacking Lab web </a></h2>
+<h1><strong>You can visit </strong></h1> <h2><a href="https://mywork.fekusa.my.id/">My Portfolio</a></h2> <h2><a href="https://fekusa.my.id/">My Website</a></h2>
 
 <center>
 <p>Here are some ideas to get you started:
 
 - 💬 Ask me about anything
-- 📫 How to reach me: [Gmail](mailto:xnuversh1kar4@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:santosofebrikukuh@gmail.com)
 - 😄 Pronouns: Indonesian
-- ⚡ Fun fact: Python Is Snake
--->
+- ⚡ Fun fact: Im Tech Enthusiast
+
 </p>
 </center>
