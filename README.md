@@ -1,6 +1,6 @@
 ### <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+•fekusatech-☆.....;Nice+to+see+you....!&size=25">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fekusatech&theme=dracula" alt="fekusatech" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=fekusatech&theme=dracula&no-frame=true" alt="fekusatech" />
 
 <h3 align="left">Languages and Tools:</h3>
 
