@@ -8,7 +8,7 @@
 </p>
 <!--<br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300> -->
 
-<h3 align="left">Languages and Tools:</h3>
+## <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -26,7 +26,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-## ☆ <b>VISTOR COUNT ☆
+## <h3 align="left">Statistic:</h3>
 
 ![fekusatech's stats](https://github-readme-stats.vercel.app/api?username=fekusatech&hide=issues&show_icons=true&theme=dark&bg_color=0A0A0A)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fekusatech&layout=compact&theme=dark&bg_color=0A0A0A)](https://github.com/anuraghazra/github-readme-stats)
