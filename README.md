@@ -26,8 +26,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-![Profile Viewers](https://komarev.com/ghpvc/?username=fekusatech&color=blue)
-
 ## ☆ <b>VISTOR COUNT ☆
 
 ![fekusatech's stats](https://github-readme-stats.vercel.app/api?username=fekusatech&hide=issues&show_icons=true&theme=dark&bg_color=0A0A0A)
