@@ -28,23 +28,15 @@
 
 ![Profile Viewers](https://komarev.com/ghpvc/?username=fekusatech&color=blue)
 
-☆ <b>VISTOR COUNT ☆
+## ☆ <b>VISTOR COUNT ☆
 
-  <h4 align="center">
-
-  <img src="https://profile-counter.glitch.me/fekusatech/count.svg" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fekusatech&show_icons=true&theme=dark" alt="fekusatech GitHub stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekusatech&langs_count=10&theme=radical&count_private=true" src="https://github.com/anuraghazra/github-readme-stats" alt="Top Langs">
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fekusatech&theme=dark" alt="fekusatech" /></p>
-  
-  <audio loop="true" autoplay="true">
-	<source src="https://f.top4top.io/m_1874i0i0m0.mp3" type="audio/mpeg">
-  </audio>
-</p>
+![fekusatech's stats](https://github-readme-stats.vercel.app/api?username=fekusatech&hide=issues&show_icons=true&theme=dark&bg_color=0A0A0A)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fekusatech&layout=compact&theme=dark&bg_color=0A0A0A)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+<a href="https://github.com/fekusatech?tab=followers">
+    <img src="https://img.shields.io/github/followers/fekusatech?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+</a>
+-->
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
 
